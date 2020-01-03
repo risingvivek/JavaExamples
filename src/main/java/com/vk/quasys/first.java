@@ -20,6 +20,7 @@ public class first {
 
 		first pnt = new first();
 		System.out.println((2 + 1)/2);
+		System.out.println("The final value is printed");
 	}
 
 }
